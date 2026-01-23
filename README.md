@@ -6,4 +6,6 @@ Replication package and datasets for the VIID conference paper on trade disputes
 - data/processed: cleaned datasets used in analysis
 - output: generated tables and figures
 
+# How to Cite
 
+Krisnadi, Muhammad Faiz, and Dama Rifki Adhipramana. 2025. Trade disputes and forum shopping: VIID conference paper replication package and datasets. Unpublished.
