@@ -206,3 +206,6 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 .DS_Store
+
+# Large raw file kept locally (not uploaded)
+data/raw/Raw_UNGA Voting & GPR data/2025_7_23_ga_voting.csv

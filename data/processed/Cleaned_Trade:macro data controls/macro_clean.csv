@@ -1,0 +1,886 @@
+country_iso3,period,gdp_growth_yoy,cpi_yoy,fx_usd,policy_uncertainty,source_file
+,1997,,,,78.94667007049736,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1997,,,,75.71017964631693,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1997,,,,64.69414573478578,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1997,,,,71.77661238591965,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1997,,,,82.45633451001416,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1997,,,,82.90348411044076,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1997,,,,66.45157363383683,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1997,,,,58.28023704690649,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1997,,,,61.01315834459617,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1997,,,,76.09987334353833,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1997,,,,84.61943119509115,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1997,,,,93.08123833421033,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1998,,,,88.85261285438546,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1998,,,,76.31687912659966,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1998,,,,76.57578385433995,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1998,,,,72.08736344916646,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1998,,,,78.58931545533227,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1998,,,,76.74194181233001,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1998,,,,92.41727833169053,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1998,,,,103.87723786589096,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1998,,,,142.42497170493402,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1998,,,,108.78019361600198,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1998,,,,90.43056303305592,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1998,,,,89.19758324142516,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1999,,,,91.45915366540146,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1999,,,,74.70584889177702,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1999,,,,56.56446752800208,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1999,,,,63.31380305320315,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1999,,,,67.36241079288592,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1999,,,,66.97490319393174,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1999,,,,70.06403637444731,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1999,,,,67.62057838897772,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1999,,,,61.5941712611638,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1999,,,,66.00819815994139,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1999,,,,65.039225771314,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,1999,,,,57.90862752446549,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2000,,,,66.36367472810343,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2000,,,,55.56560179996279,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2000,,,,60.52590524519301,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2000,,,,61.61076126343306,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2000,,,,81.41416411142971,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2000,,,,85.18782204968468,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2000,,,,63.40957277692014,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2000,,,,52.790760461053885,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2000,,,,61.66180018325815,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2000,,,,67.71701300966528,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2000,,,,93.83444435680651,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2000,,,,94.65714033124286,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2001,,,,93.35021454472034,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2001,,,,93.5892203661002,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2001,,,,104.08856839264948,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2001,,,,95.96034753958428,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2001,,,,76.2284313527645,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2001,,,,70.38369419641894,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2001,,,,89.31655703947906,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2001,,,,78.62699833509828,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2001,,,,157.86792929259073,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2001,,,,149.65709339686285,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2001,,,,116.18331551353972,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2001,,,,100.58075544471164,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2002,,,,99.52198232511564,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2002,,,,80.76180741308836,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2002,,,,74.59308217829181,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2002,,,,79.13284503161975,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2002,,,,77.96822830243879,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2002,,,,88.84128163723813,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2002,,,,94.05770224142972,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2002,,,,98.65994746254992,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2002,,,,113.83231916969,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2002,,,,113.1431319935155,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2002,,,,114.38705377384969,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2002,,,,115.91781868218156,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2003,,,,113.2392624046818,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2003,,,,122.67273024389456,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2003,,,,154.95135581883815,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2003,,,,130.4134808372364,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2003,,,,101.67760275095178,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2003,,,,82.51440276375936,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2003,,,,82.56551484587843,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2003,,,,71.22688733157887,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2003,,,,76.20561301161031,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2003,,,,78.33401691760166,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2003,,,,75.20862638851757,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2003,,,,69.90254931262179,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2004,,,,76.73180303959109,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2004,,,,79.57674053464572,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2004,,,,74.99368756123754,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2004,,,,79.71684821401826,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2004,,,,94.40545962925852,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2004,,,,77.95091242300214,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2004,,,,71.89777070346065,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2004,,,,67.77085153612467,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2004,,,,73.9922766883366,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2004,,,,88.91741812810221,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2004,,,,80.41245605392749,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2004,,,,67.82116974456984,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2005,,,,64.16038767713928,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2005,,,,58.05137932352309,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2005,,,,56.26476349912048,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2005,,,,76.23022625973405,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2005,,,,63.96939970816604,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2005,,,,71.54221971609451,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2005,,,,64.83093929006289,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2005,,,,63.04031579608624,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2005,,,,92.15904169306154,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2005,,,,68.55458112847958,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2005,,,,64.42039898602806,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2005,,,,66.69571295853952,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2006,,,,78.19793909395729,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2006,,,,61.17863073467588,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2006,,,,61.3899649985112,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2006,,,,73.97570170067674,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2006,,,,62.93144510684913,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2006,,,,72.60757434931148,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2006,,,,71.11041438834418,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2006,,,,64.51152773379238,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2006,,,,57.06962921136628,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2006,,,,66.81654313526147,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2006,,,,64.20042399719156,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2006,,,,61.83685444454832,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2007,,,,65.10422518991369,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2007,,,,57.81764258496403,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2007,,,,67.46514284784318,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2007,,,,64.4771699330211,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2007,,,,57.16956791749152,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2007,,,,57.42454652662787,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2007,,,,52.31083044638062,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2007,,,,76.53318885930669,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2007,,,,94.27961799681596,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2007,,,,79.05740084011211,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2007,,,,79.24306136856426,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2007,,,,99.50190893676424,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2008,,,,132.67348467378412,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2008,,,,97.6946175121396,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2008,,,,129.49187394121256,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2008,,,,98.84602565380808,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2008,,,,81.65165719096352,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2008,,,,90.885782710301,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2008,,,,108.04425347949083,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2008,,,,98.95682165284067,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2008,,,,159.38327046040624,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2008,,,,209.10970485869257,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2008,,,,146.35462196084896,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2008,,,,148.57723869844747,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2009,,,,146.4469512400805,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2009,,,,144.32029145676623,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2009,,,,136.38432253123048,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2009,,,,104.750467348617,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2009,,,,100.52523281529986,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2009,,,,130.59050403144496,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2009,,,,117.80683498626972,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2009,,,,109.28252944510646,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2009,,,,119.58940973155848,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2009,,,,98.05984967098308,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2009,,,,109.3531240195016,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2009,,,,105.68847381234092,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2010,,,,120.66120212450916,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2010,,,,120.48052765307132,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2010,,,,121.45761639790736,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2010,,,,109.29568415514176,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2010,,,,143.25591160114956,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2010,,,,142.0558803941887,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2010,,,,146.89733481260117,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2010,,,,121.89664199711945,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2010,,,,127.40196896704506,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2010,,,,123.39302881476029,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2010,,,,127.69332258674096,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2010,,,,139.86180526571923,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2011,,,,124.43192451899084,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2011,,,,97.59754941242495,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2011,,,,132.05065688775642,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2011,,,,124.29711127395474,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2011,,,,94.71435130683936,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2011,,,,124.31635040736168,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2011,,,,151.25155591947828,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2011,,,,215.6633658502587,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2011,,,,194.66810214159435,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2011,,,,173.333928427409,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2011,,,,195.3298343828691,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2011,,,,186.3765064742516,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2012,,,,158.49112750288364,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2012,,,,148.34570069780997,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2012,,,,146.8754819559385,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2012,,,,136.51139063887845,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2012,,,,165.58162411048323,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2012,,,,188.31995060302788,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2012,,,,153.00085042595572,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2012,,,,118.63951527924252,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2012,,,,156.11290863870306,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2012,,,,151.6641576128439,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2012,,,,161.04530807528823,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2012,,,,170.05411988120704,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2013,,,,165.9691697799868,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2013,,,,123.42232849776214,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2013,,,,145.2720300527023,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2013,,,,139.8204551480889,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2013,,,,108.45989263074809,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2013,,,,130.3413693661682,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2013,,,,108.61702839051556,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2013,,,,127.510476414801,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2013,,,,141.4821197742111,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2013,,,,167.42568943692825,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2013,,,,108.1266979750649,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2013,,,,128.28453589585868,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2014,,,,119.73175613137757,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2014,,,,100.93055162712092,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2014,,,,114.62931361273507,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2014,,,,118.49435508905484,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2014,,,,111.04847877848124,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2014,,,,96.49482870558502,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2014,,,,99.92635829313264,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2014,,,,105.12662407963082,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2014,,,,128.62705127380812,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2014,,,,114.72445601526448,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2014,,,,128.5824873826561,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2014,,,,113.92492663832272,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2015,,,,135.1560574639586,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2015,,,,122.71735670724914,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2015,,,,117.89247208301398,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2015,,,,100.8295329808796,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2015,,,,101.5045605550446,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2015,,,,118.7324853799622,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2015,,,,122.95756139829524,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2015,,,,117.1942552555096,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2015,,,,153.84681297527246,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2015,,,,115.4049805479583,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2015,,,,106.0671427963777,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2015,,,,116.93045680201118,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2016,,,,140.98922239439594,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2016,,,,145.7843210258418,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2016,,,,162.35701347188672,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2016,,,,146.4108057327558,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2016,,,,123.78310072422684,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2016,,,,220.8728020774366,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2016,,,,189.04230666470053,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2016,,,,136.53175457380783,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2016,,,,139.17308540863206,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2016,,,,122.4195136717544,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2016,,,,215.21014277618755,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2016,,,,186.7824680495277,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2017,,,,255.4434097930697,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2017,,,,189.76757983419247,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2017,,,,250.267752001554,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2017,,,,177.8815889276257,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2017,,,,142.73990616501476,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2017,,,,175.62285235872952,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2017,,,,172.39612352021453,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2017,,,,141.85111637138604,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2017,,,,163.55370928011234,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2017,,,,149.8850413341657,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2017,,,,168.11429989012603,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2017,,,,155.63141879389653,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2018,,,,180.2249522168576,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2018,,,,130.84397856996634,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2018,,,,181.58054352215265,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2018,,,,173.59974925568656,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2018,,,,172.6340525363185,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2018,,,,163.6014598771262,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2018,,,,238.65164476922112,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2018,,,,182.2535259626346,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2018,,,,205.87183344860733,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2018,,,,225.9861261656528,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2018,,,,265.399744618659,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2018,,,,218.36766791551844,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2019,,,,243.73602609554868,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2019,,,,177.8851171260278,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2019,,,,251.88932480392583,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2019,,,,204.94518942899504,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2019,,,,238.29675981398947,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2019,,,,350.0857278620082,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2019,,,,259.88958793996136,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2019,,,,293.2323196220287,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2019,,,,250.5311113198518,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2019,,,,208.97313239509185,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2019,,,,259.39836565970273,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2019,,,,244.6375426420794,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2020,,,,199.4429235293324,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2020,,,,198.10792708788884,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2020,,,,311.5879846530289,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2020,,,,335.00924143313,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2020,,,,424.1398946815541,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2020,,,,325.17552294739903,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2020,,,,308.7287709296871,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2020,,,,304.4728172850744,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2020,,,,328.0290650225485,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2020,,,,313.2323743217535,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2020,,,,421.6950694836916,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2020,,,,315.13339968767843,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2021,,,,283.33855685729594,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2021,,,,200.1835364747843,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2021,,,,221.55855938706355,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2021,,,,206.5210490364654,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2021,,,,179.9193447624978,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2021,,,,181.2608313438116,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2021,,,,190.67860729711984,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2021,,,,210.24213235255337,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2021,,,,220.055401456625,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2021,,,,195.58150158606068,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2021,,,,234.94051276875305,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2021,,,,267.82005831418473,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2022,,,,233.87647551488425,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2022,,,,186.52405088818,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2022,,,,305.9717362436615,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2022,,,,288.4020015462461,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2022,,,,290.88664476173,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2022,,,,265.70125678193966,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2022,,,,305.85829635061,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2022,,,,242.02875344809985,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2022,,,,254.29086743869857,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2022,,,,269.4533717435408,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2022,,,,327.46665264377407,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2022,,,,256.11908562985104,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2023,,,,229.4344047136672,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2023,,,,263.6088054282293,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2023,,,,340.0478419091528,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2023,,,,284.59442386397296,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2023,,,,214.1470709557728,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2023,,,,238.5516076879328,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2023,,,,203.31654815469048,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2023,,,,188.5062460562744,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2023,,,,213.3662207415541,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2023,,,,199.51820590882087,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2023,,,,221.26675776922443,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2023,,,,250.07648640544423,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2024,,,,263.2592532215682,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2024,,,,182.027901346455,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2024,,,,189.94249884322647,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2024,,,,178.21427269453093,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2024,,,,191.463613188574,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2024,,,,175.65653460543678,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2024,,,,244.9220087686824,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2024,,,,202.02318396520909,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2024,,,,211.56090240728184,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2024,,,,215.3629698101637,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2024,,,,282.0324461590359,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2024,,,,336.70695323855256,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2025,,,,309.75896789015667,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2025,,,,319.8927203737342,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2025,,,,458.7146789809843,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2025,,,,585.0494981064056,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2025,,,,487.68183540520135,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2025,,,,357.59524150893725,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2025,,,,377.14680268855807,Trade:macro data controls/Global_Policy_Uncertainty_Data.xlsx
+,2003,,,,49.28183672521254,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2003,,,,69.26014172188657,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2003,,,,113.41906690712504,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2003,,,,80.29344274721004,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2003,,,,62.98457888698713,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2003,,,,57.71823293922488,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2003,,,,63.98773988308315,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2003,,,,59.84916548070126,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2003,,,,53.42519630551378,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2003,,,,64.71463980142373,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2003,,,,40.53714378463265,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2003,,,,42.95920976496371,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2004,,,,77.31049369594822,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2004,,,,82.81783570877172,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2004,,,,24.93982379824606,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2004,,,,73.95040995071386,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2004,,,,229.63283912740616,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2004,,,,48.42130501834439,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2004,,,,47.16453172193327,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2004,,,,83.19060108746564,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2004,,,,41.46086890215294,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2004,,,,86.20778512410381,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2004,,,,50.9636781613867,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2004,,,,50.82652327604309,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2005,,,,52.30633057324457,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2005,,,,60.79928443692156,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2005,,,,38.8253469402741,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2005,,,,90.29830170642629,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2005,,,,60.122069699690215,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2005,,,,63.02026582099587,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2005,,,,66.42700940451617,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2005,,,,30.69375219131057,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2005,,,,31.90440236956592,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2005,,,,51.63887436151968,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2005,,,,33.007221208111304,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2005,,,,42.34654208794616,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2006,,,,39.99015071492216,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2006,,,,31.373429346484293,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2006,,,,32.26818075951133,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2006,,,,37.3250682372824,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2006,,,,39.59400294589752,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2006,,,,53.543902667984455,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2006,,,,72.42788138285052,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2006,,,,59.80985077466205,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2006,,,,41.71182061861049,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2006,,,,37.20119850891464,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2006,,,,85.04990131479053,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2006,,,,63.49550635921266,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2007,,,,45.91791915004488,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2007,,,,71.26275688790362,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2007,,,,50.21209110221546,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2007,,,,72.65432632041559,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2007,,,,35.18941484422353,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2007,,,,27.73945953666472,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2007,,,,35.04796481278875,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2007,,,,47.82679821147992,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2007,,,,58.06872525889252,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2007,,,,72.57213723084442,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2007,,,,56.17607768509825,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2007,,,,61.8094793299642,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2008,,,,126.77857486132322,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2008,,,,89.35044010244911,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2008,,,,175.1922806109358,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2008,,,,124.77666019093296,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2008,,,,94.38440487607043,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2008,,,,162.87370934656244,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2008,,,,193.61181291414653,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2008,,,,92.26747002668144,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2008,,,,124.11170076397038,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2008,,,,235.1855889161764,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2008,,,,146.6291463830474,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2008,,,,136.16010641557276,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2009,,,,105.81543622900212,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2009,,,,135.76495034285804,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2009,,,,155.9705330833372,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2009,,,,131.5910635641946,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2009,,,,114.31607835289444,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2009,,,,98.40060858743225,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2009,,,,141.06748994361112,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2009,,,,103.87955899860944,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2009,,,,87.38876593215565,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2009,,,,85.99908332571755,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2009,,,,68.55942138106866,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2009,,,,78.48649557899054,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2010,,,,77.4538507131951,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2010,,,,129.56899496548402,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2010,,,,96.48685457904364,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2010,,,,94.1680456639857,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2010,,,,113.86794399378972,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2010,,,,151.37906163275056,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2010,,,,100.37033051637285,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2010,,,,89.10888210345854,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2010,,,,99.39948897500037,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2010,,,,88.99954627431738,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2010,,,,107.06228847278234,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2010,,,,157.43473914421747,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2011,,,,124.5488116181642,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2011,,,,144.1516674787403,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2011,,,,96.31920457136157,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2011,,,,71.03994005911449,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2011,,,,102.97064680439046,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2011,,,,105.51095516791,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2011,,,,155.34045524143338,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2011,,,,272.8744499013068,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2011,,,,186.7873955294912,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2011,,,,222.56592888202903,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2011,,,,224.14033707345524,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2011,,,,249.3388804334516,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2012,,,,183.11711394747468,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2012,,,,180.2292340522357,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2012,,,,239.419281049316,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2012,,,,173.36813204818972,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2012,,,,246.4107733047512,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2012,,,,283.6891010773121,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2012,,,,142.36513666942398,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2012,,,,166.005413390333,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2012,,,,152.36616420969685,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2012,,,,163.22942933911213,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2012,,,,141.81025736988087,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2012,,,,153.56534769662673,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2013,,,,133.14899506987675,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2013,,,,138.3507232242277,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2013,,,,155.18348608613428,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2013,,,,148.7508060570438,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2013,,,,122.28457989652532,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2013,,,,129.938320216257,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2013,,,,130.0257270018426,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2013,,,,188.82958232750696,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2013,,,,160.81843434302291,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2013,,,,107.31888719736706,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2013,,,,79.37088973830282,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2013,,,,103.19481758790955,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2014,,,,95.17993780065925,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2014,,,,78.70988759502637,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2014,,,,66.12666501598238,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2014,,,,78.73885774235556,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2014,,,,88.9438942309653,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2014,,,,72.41730552205794,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2014,,,,104.40687073483628,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2014,,,,133.45057629570937,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2014,,,,115.3219985176325,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2014,,,,91.51668380426636,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2014,,,,119.68306120116982,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2014,,,,115.65456889430229,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2015,,,,120.23884562928906,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2015,,,,98.44914335186796,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2015,,,,53.43037365310486,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2015,,,,52.30805786268606,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2015,,,,63.05068531902237,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2015,,,,79.26368344902339,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2015,,,,50.592394124887285,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2015,,,,77.56551090484805,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2015,,,,85.25516330431915,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2015,,,,45.600444982037885,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2015,,,,47.64637132555743,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2015,,,,77.3212652627826,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2016,,,,70.27962816729104,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2016,,,,99.21338957915891,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2016,,,,92.20086043258604,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2016,,,,47.38800489659525,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2016,,,,53.01306933626672,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2016,,,,144.26610654641203,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2016,,,,78.06611646779794,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2016,,,,41.01421795379474,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2016,,,,32.883688374815065,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2016,,,,38.68679389712458,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2016,,,,72.80564554784861,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2016,,,,117.88624703663206,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2017,,,,84.1265634479745,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2017,,,,137.40044218429398,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2017,,,,65.67519444745591,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2017,,,,81.33383974594943,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2017,,,,39.26336406270235,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2017,,,,59.06988863428329,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2017,,,,62.0298812745198,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2017,,,,37.68947182364494,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2017,,,,78.03064263581919,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2017,,,,83.39475700503272,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2017,,,,62.91198158831512,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2017,,,,81.98847403920425,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2018,,,,39.42573952447715,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2018,,,,79.90937937897944,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2018,,,,42.03543166537135,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2018,,,,34.92319848072839,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2018,,,,37.55676023522435,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2018,,,,47.16574493138164,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2018,,,,63.24723025788104,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2018,,,,77.71507109143307,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2018,,,,63.50945886460456,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2018,,,,63.91605559496056,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2018,,,,68.80318639385796,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2018,,,,66.13168382957504,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2019,,,,64.73835057764026,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2019,,,,50.11977553899689,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2019,,,,40.58510099160711,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2019,,,,60.453423491937805,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2019,,,,83.64255634502273,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2019,,,,72.85344174080677,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2019,,,,70.45083786546704,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2019,,,,81.67477717039674,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2019,,,,105.54432807035803,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2019,,,,90.6638782184606,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2019,,,,50.36468163468457,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2019,,,,106.03553607824767,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2020,,,,48.13543095649756,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2020,,,,92.64915582639026,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2020,,,,110.0984279064366,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2020,,,,160.82159897636683,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2020,,,,167.7502082037551,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2020,,,,75.14696716123495,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2020,,,,107.7537669577526,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2020,,,,115.05743140308688,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2020,,,,82.27406494205796,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2020,,,,95.48763604466706,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2020,,,,69.49672078101943,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2020,,,,69.8784982387199,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2021,,,,83.66126435425299,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2021,,,,51.77739108457203,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2021,,,,40.93234026810346,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2021,,,,78.98831889710036,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2021,,,,73.2438034026623,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2021,,,,58.328457067689584,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2021,,,,76.8572490470718,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2021,,,,69.1576442952256,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2021,,,,48.91963436555376,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2021,,,,39.94632639924301,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2021,,,,23.352756097078743,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2021,,,,72.32533068897091,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2022,,,,70.02399002509743,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2022,,,,91.19663066276584,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2022,,,,120.69872467460094,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2022,,,,90.13010280580336,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2022,,,,69.1161702673634,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2022,,,,65.47729460142382,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2022,,,,81.2920900980324,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2022,,,,72.41811421388707,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2022,,,,67.74022999236907,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2022,,,,90.50302439754714,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2022,,,,77.12625268949337,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2022,,,,78.09208834020079,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2023,,,,50.97487364777378,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2023,,,,126.74948084640948,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2023,,,,72.3856247483252,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2023,,,,85.97074078933265,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2023,,,,48.45008122740234,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2023,,,,60.06000994792948,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2023,,,,55.64200371567226,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2023,,,,57.63816409358199,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2023,,,,32.909401546339964,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2023,,,,122.11404308411338,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2023,,,,104.73627109939916,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2023,,,,128.53721334256443,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2024,,,,129.9088501917987,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2024,,,,148.82550201181172,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2024,,,,91.72226368239662,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2024,,,,137.17510890841297,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2024,,,,83.03755642976776,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2024,,,,141.5601878630936,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2024,,,,193.13918058288195,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2024,,,,117.7430396059896,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2024,,,,143.18697352668727,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2024,,,,152.8687243537092,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2024,,,,105.32082969821649,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2024,,,,142.25139630136857,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2025,,,,169.2755884712563,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2025,,,,176.33804551172165,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2025,,,,132.86567021507508,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2025,,,,157.31353352877616,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2025,,,,98.96153361743744,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2025,,,,145.55710029638902,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+,2025,,,,86.6274033190714,Trade:macro data controls/India_Policy_Uncertainty_Data.xlsx
+IND,1970-01,,,,49.28183672521254,epu_india
+IND,1970-01,,,,69.26014172188657,epu_india
+IND,1970-01,,,,113.41906690712504,epu_india
+IND,1970-01,,,,80.29344274721004,epu_india
+IND,1970-01,,,,62.98457888698713,epu_india
+IND,1970-01,,,,57.718232939224876,epu_india
+IND,1970-01,,,,63.98773988308315,epu_india
+IND,1970-01,,,,59.84916548070126,epu_india
+IND,1970-01,,,,53.42519630551378,epu_india
+IND,1970-01,,,,64.71463980142373,epu_india
+IND,1970-01,,,,40.53714378463265,epu_india
+IND,1970-01,,,,42.95920976496371,epu_india
+IND,1970-01,,,,77.31049369594822,epu_india
+IND,1970-01,,,,82.81783570877172,epu_india
+IND,1970-01,,,,24.93982379824606,epu_india
+IND,1970-01,,,,73.95040995071386,epu_india
+IND,1970-01,,,,229.63283912740619,epu_india
+IND,1970-01,,,,48.42130501834439,epu_india
+IND,1970-01,,,,47.164531721933265,epu_india
+IND,1970-01,,,,83.19060108746564,epu_india
+IND,1970-01,,,,41.46086890215294,epu_india
+IND,1970-01,,,,86.20778512410381,epu_india
+IND,1970-01,,,,50.9636781613867,epu_india
+IND,1970-01,,,,50.82652327604309,epu_india
+IND,1970-01,,,,52.30633057324457,epu_india
+IND,1970-01,,,,60.79928443692156,epu_india
+IND,1970-01,,,,38.8253469402741,epu_india
+IND,1970-01,,,,90.29830170642627,epu_india
+IND,1970-01,,,,60.122069699690215,epu_india
+IND,1970-01,,,,63.02026582099587,epu_india
+IND,1970-01,,,,66.42700940451617,epu_india
+IND,1970-01,,,,30.69375219131057,epu_india
+IND,1970-01,,,,31.904402369565922,epu_india
+IND,1970-01,,,,51.63887436151968,epu_india
+IND,1970-01,,,,33.007221208111304,epu_india
+IND,1970-01,,,,42.34654208794616,epu_india
+IND,1970-01,,,,39.99015071492216,epu_india
+IND,1970-01,,,,31.373429346484293,epu_india
+IND,1970-01,,,,32.26818075951133,epu_india
+IND,1970-01,,,,37.325068237282395,epu_india
+IND,1970-01,,,,39.59400294589752,epu_india
+IND,1970-01,,,,53.543902667984455,epu_india
+IND,1970-01,,,,72.42788138285052,epu_india
+IND,1970-01,,,,59.80985077466205,epu_india
+IND,1970-01,,,,41.71182061861049,epu_india
+IND,1970-01,,,,37.201198508914636,epu_india
+IND,1970-01,,,,85.04990131479053,epu_india
+IND,1970-01,,,,63.49550635921266,epu_india
+IND,1970-01,,,,45.91791915004488,epu_india
+IND,1970-01,,,,71.26275688790362,epu_india
+IND,1970-01,,,,50.21209110221546,epu_india
+IND,1970-01,,,,72.65432632041559,epu_india
+IND,1970-01,,,,35.18941484422353,epu_india
+IND,1970-01,,,,27.739459536664718,epu_india
+IND,1970-01,,,,35.04796481278875,epu_india
+IND,1970-01,,,,47.82679821147992,epu_india
+IND,1970-01,,,,58.06872525889252,epu_india
+IND,1970-01,,,,72.57213723084442,epu_india
+IND,1970-01,,,,56.17607768509825,epu_india
+IND,1970-01,,,,61.8094793299642,epu_india
+IND,1970-01,,,,126.77857486132322,epu_india
+IND,1970-01,,,,89.35044010244911,epu_india
+IND,1970-01,,,,175.1922806109358,epu_india
+IND,1970-01,,,,124.77666019093296,epu_india
+IND,1970-01,,,,94.38440487607045,epu_india
+IND,1970-01,,,,162.87370934656244,epu_india
+IND,1970-01,,,,193.61181291414658,epu_india
+IND,1970-01,,,,92.26747002668144,epu_india
+IND,1970-01,,,,124.11170076397038,epu_india
+IND,1970-01,,,,235.18558891617639,epu_india
+IND,1970-01,,,,146.6291463830474,epu_india
+IND,1970-01,,,,136.16010641557276,epu_india
+IND,1970-01,,,,105.81543622900212,epu_india
+IND,1970-01,,,,135.76495034285804,epu_india
+IND,1970-01,,,,155.9705330833372,epu_india
+IND,1970-01,,,,131.5910635641946,epu_india
+IND,1970-01,,,,114.31607835289444,epu_india
+IND,1970-01,,,,98.40060858743223,epu_india
+IND,1970-01,,,,141.06748994361112,epu_india
+IND,1970-01,,,,103.87955899860944,epu_india
+IND,1970-01,,,,87.38876593215565,epu_india
+IND,1970-01,,,,85.99908332571755,epu_india
+IND,1970-01,,,,68.55942138106866,epu_india
+IND,1970-01,,,,78.48649557899054,epu_india
+IND,1970-01,,,,77.4538507131951,epu_india
+IND,1970-01,,,,129.56899496548402,epu_india
+IND,1970-01,,,,96.48685457904365,epu_india
+IND,1970-01,,,,94.1680456639857,epu_india
+IND,1970-01,,,,113.86794399378972,epu_india
+IND,1970-01,,,,151.37906163275056,epu_india
+IND,1970-01,,,,100.37033051637283,epu_india
+IND,1970-01,,,,89.10888210345854,epu_india
+IND,1970-01,,,,99.39948897500037,epu_india
+IND,1970-01,,,,88.99954627431738,epu_india
+IND,1970-01,,,,107.06228847278234,epu_india
+IND,1970-01,,,,157.43473914421747,epu_india
+IND,1970-01,,,,124.5488116181642,epu_india
+IND,1970-01,,,,144.1516674787403,epu_india
+IND,1970-01,,,,96.31920457136155,epu_india
+IND,1970-01,,,,71.03994005911449,epu_india
+IND,1970-01,,,,102.97064680439046,epu_india
+IND,1970-01,,,,105.51095516791,epu_india
+IND,1970-01,,,,155.34045524143338,epu_india
+IND,1970-01,,,,272.8744499013068,epu_india
+IND,1970-01,,,,186.7873955294912,epu_india
+IND,1970-01,,,,222.56592888202906,epu_india
+IND,1970-01,,,,224.14033707345524,epu_india
+IND,1970-01,,,,249.33888043345158,epu_india
+IND,1970-01,,,,183.11711394747468,epu_india
+IND,1970-01,,,,180.22923405223574,epu_india
+IND,1970-01,,,,239.41928104931597,epu_india
+IND,1970-01,,,,173.36813204818972,epu_india
+IND,1970-01,,,,246.41077330475122,epu_india
+IND,1970-01,,,,283.6891010773121,epu_india
+IND,1970-01,,,,142.36513666942398,epu_india
+IND,1970-01,,,,166.005413390333,epu_india
+IND,1970-01,,,,152.36616420969685,epu_india
+IND,1970-01,,,,163.22942933911213,epu_india
+IND,1970-01,,,,141.81025736988087,epu_india
+IND,1970-01,,,,153.56534769662673,epu_india
+IND,1970-01,,,,133.14899506987675,epu_india
+IND,1970-01,,,,138.3507232242277,epu_india
+IND,1970-01,,,,155.18348608613428,epu_india
+IND,1970-01,,,,148.7508060570438,epu_india
+IND,1970-01,,,,122.28457989652533,epu_india
+IND,1970-01,,,,129.938320216257,epu_india
+IND,1970-01,,,,130.0257270018426,epu_india
+IND,1970-01,,,,188.82958232750698,epu_india
+IND,1970-01,,,,160.81843434302291,epu_india
+IND,1970-01,,,,107.31888719736706,epu_india
+IND,1970-01,,,,79.37088973830282,epu_india
+IND,1970-01,,,,103.19481758790955,epu_india
+IND,1970-01,,,,95.17993780065925,epu_india
+IND,1970-01,,,,78.70988759502637,epu_india
+IND,1970-01,,,,66.12666501598238,epu_india
+IND,1970-01,,,,78.73885774235556,epu_india
+IND,1970-01,,,,88.9438942309653,epu_india
+IND,1970-01,,,,72.41730552205794,epu_india
+IND,1970-01,,,,104.40687073483628,epu_india
+IND,1970-01,,,,133.45057629570937,epu_india
+IND,1970-01,,,,115.3219985176325,epu_india
+IND,1970-01,,,,91.51668380426635,epu_india
+IND,1970-01,,,,119.68306120116982,epu_india
+IND,1970-01,,,,115.65456889430227,epu_india
+IND,1970-01,,,,120.23884562928906,epu_india
+IND,1970-01,,,,98.44914335186797,epu_india
+IND,1970-01,,,,53.43037365310486,epu_india
+IND,1970-01,,,,52.30805786268606,epu_india
+IND,1970-01,,,,63.05068531902237,epu_india
+IND,1970-01,,,,79.26368344902339,epu_india
+IND,1970-01,,,,50.592394124887285,epu_india
+IND,1970-01,,,,77.56551090484805,epu_india
+IND,1970-01,,,,85.25516330431915,epu_india
+IND,1970-01,,,,45.600444982037885,epu_india
+IND,1970-01,,,,47.64637132555743,epu_india
+IND,1970-01,,,,77.3212652627826,epu_india
+IND,1970-01,,,,70.27962816729104,epu_india
+IND,1970-01,,,,99.21338957915893,epu_india
+IND,1970-01,,,,92.20086043258605,epu_india
+IND,1970-01,,,,47.38800489659525,epu_india
+IND,1970-01,,,,53.01306933626672,epu_india
+IND,1970-01,,,,144.26610654641203,epu_india
+IND,1970-01,,,,78.06611646779794,epu_india
+IND,1970-01,,,,41.01421795379474,epu_india
+IND,1970-01,,,,32.883688374815065,epu_india
+IND,1970-01,,,,38.68679389712458,epu_india
+IND,1970-01,,,,72.80564554784861,epu_india
+IND,1970-01,,,,117.88624703663206,epu_india
+IND,1970-01,,,,84.1265634479745,epu_india
+IND,1970-01,,,,137.40044218429398,epu_india
+IND,1970-01,,,,65.67519444745591,epu_india
+IND,1970-01,,,,81.33383974594943,epu_india
+IND,1970-01,,,,39.26336406270235,epu_india
+IND,1970-01,,,,59.06988863428329,epu_india
+IND,1970-01,,,,62.0298812745198,epu_india
+IND,1970-01,,,,37.68947182364494,epu_india
+IND,1970-01,,,,78.03064263581919,epu_india
+IND,1970-01,,,,83.39475700503272,epu_india
+IND,1970-01,,,,62.911981588315115,epu_india
+IND,1970-01,,,,81.98847403920425,epu_india
+IND,1970-01,,,,39.42573952447715,epu_india
+IND,1970-01,,,,79.90937937897944,epu_india
+IND,1970-01,,,,42.03543166537135,epu_india
+IND,1970-01,,,,34.92319848072839,epu_india
+IND,1970-01,,,,37.55676023522435,epu_india
+IND,1970-01,,,,47.16574493138164,epu_india
+IND,1970-01,,,,63.247230257881036,epu_india
+IND,1970-01,,,,77.71507109143307,epu_india
+IND,1970-01,,,,63.509458864604554,epu_india
+IND,1970-01,,,,63.91605559496056,epu_india
+IND,1970-01,,,,68.80318639385796,epu_india
+IND,1970-01,,,,66.13168382957504,epu_india
+IND,1970-01,,,,64.73835057764026,epu_india
+IND,1970-01,,,,50.11977553899689,epu_india
+IND,1970-01,,,,40.58510099160711,epu_india
+IND,1970-01,,,,60.453423491937805,epu_india
+IND,1970-01,,,,83.64255634502273,epu_india
+IND,1970-01,,,,72.85344174080677,epu_india
+IND,1970-01,,,,70.45083786546704,epu_india
+IND,1970-01,,,,81.67477717039674,epu_india
+IND,1970-01,,,,105.54432807035803,epu_india
+IND,1970-01,,,,90.66387821846061,epu_india
+IND,1970-01,,,,50.36468163468457,epu_india
+IND,1970-01,,,,106.03553607824769,epu_india
+IND,1970-01,,,,48.13543095649756,epu_india
+IND,1970-01,,,,92.64915582639026,epu_india
+IND,1970-01,,,,110.0984279064366,epu_india
+IND,1970-01,,,,160.82159897636683,epu_india
+IND,1970-01,,,,167.7502082037551,epu_india
+IND,1970-01,,,,75.14696716123495,epu_india
+IND,1970-01,,,,107.7537669577526,epu_india
+IND,1970-01,,,,115.05743140308688,epu_india
+IND,1970-01,,,,82.27406494205796,epu_india
+IND,1970-01,,,,95.48763604466706,epu_india
+IND,1970-01,,,,69.49672078101943,epu_india
+IND,1970-01,,,,69.8784982387199,epu_india
+IND,1970-01,,,,83.66126435425299,epu_india
+IND,1970-01,,,,51.77739108457203,epu_india
+IND,1970-01,,,,40.93234026810346,epu_india
+IND,1970-01,,,,78.98831889710036,epu_india
+IND,1970-01,,,,73.2438034026623,epu_india
+IND,1970-01,,,,58.328457067689584,epu_india
+IND,1970-01,,,,76.8572490470718,epu_india
+IND,1970-01,,,,69.1576442952256,epu_india
+IND,1970-01,,,,48.919634365553755,epu_india
+IND,1970-01,,,,39.94632639924301,epu_india
+IND,1970-01,,,,23.352756097078743,epu_india
+IND,1970-01,,,,72.32533068897091,epu_india
+IND,1970-01,,,,70.02399002509743,epu_india
+IND,1970-01,,,,91.19663066276583,epu_india
+IND,1970-01,,,,120.69872467460094,epu_india
+IND,1970-01,,,,90.13010280580335,epu_india
+IND,1970-01,,,,69.1161702673634,epu_india
+IND,1970-01,,,,65.47729460142382,epu_india
+IND,1970-01,,,,81.2920900980324,epu_india
+IND,1970-01,,,,72.41811421388707,epu_india
+IND,1970-01,,,,67.74022999236907,epu_india
+IND,1970-01,,,,90.50302439754714,epu_india
+IND,1970-01,,,,77.12625268949337,epu_india
+IND,1970-01,,,,78.09208834020079,epu_india
+IND,1970-01,,,,50.97487364777378,epu_india
+IND,1970-01,,,,126.74948084640947,epu_india
+IND,1970-01,,,,72.3856247483252,epu_india
+IND,1970-01,,,,85.97074078933265,epu_india
+IND,1970-01,,,,48.45008122740234,epu_india
+IND,1970-01,,,,60.06000994792948,epu_india
+IND,1970-01,,,,55.64200371567226,epu_india
+IND,1970-01,,,,57.63816409358199,epu_india
+IND,1970-01,,,,32.909401546339964,epu_india
+IND,1970-01,,,,122.11404308411338,epu_india
+IND,1970-01,,,,104.73627109939916,epu_india
+IND,1970-01,,,,128.53721334256443,epu_india
+IND,1970-01,,,,129.90885019179873,epu_india
+IND,1970-01,,,,148.82550201181172,epu_india
+IND,1970-01,,,,91.72226368239662,epu_india
+IND,1970-01,,,,137.17510890841297,epu_india
+IND,1970-01,,,,83.03755642976776,epu_india
+IND,1970-01,,,,141.5601878630936,epu_india
+IND,1970-01,,,,193.13918058288195,epu_india
+IND,1970-01,,,,117.7430396059896,epu_india
+IND,1970-01,,,,143.18697352668727,epu_india
+IND,1970-01,,,,152.8687243537092,epu_india
+IND,1970-01,,,,105.32082969821647,epu_india
+IND,1970-01,,,,142.25139630136857,epu_india
+IND,1970-01,,,,169.2755884712563,epu_india
+IND,1970-01,,,,176.33804551172165,epu_india
+IND,1970-01,,,,132.86567021507508,epu_india
+IND,1970-01,,,,157.31353352877616,epu_india
+IND,1970-01,,,,98.96153361743745,epu_india
+IND,1970-01,,,,145.55710029638902,epu_india
+IND,1970-01,,,,86.6274033190714,epu_india

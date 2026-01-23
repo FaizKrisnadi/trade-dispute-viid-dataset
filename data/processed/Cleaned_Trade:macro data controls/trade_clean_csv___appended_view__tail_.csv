@@ -1,0 +1,36 @@
+,reporter_iso3,partner_iso3,hs_code,product,period,trade_flow,value_usd,quantity,unit,source_file
+0,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2002,import,460043233.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+1,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2003,import,421090723.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+2,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2004,import,497790174.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+3,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2005,import,499273694.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+4,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2006,import,566240490.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+5,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2007,import,719958698.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+6,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2008,import,1303454647.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+7,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2009,import,1449320529.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+8,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2010,import,1636322763.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+9,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2011,import,1657529109.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+10,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2012,import,1919581401.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+11,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2013,import,2313193336.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+12,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2014,import,2361550345.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+13,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2015,import,2152466624.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+14,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2016,import,1907409750.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+15,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2017,import,2434317515.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+16,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2018,import,1893017062.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+17,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2019,import,1770670230.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+18,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2020,import,2115092144.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+19,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2021,import,2312836735.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+20,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2022,import,2289579104.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+21,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2023,import,1953786067.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+22,EUU,IDN,1511,Palm oil and its fractions (Eurostat DS-045409),2024,import,1389504443.0,,EUR,Eurostat_DS-045409_data-18645077.csv
+23,EUU,IDN,1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",2013,import,3096719371.05,3540899038.0,USD,UNComtrade_JSON
+24,EUU,IDN,1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",2014,import,3201155925.378,3779067164.0,USD,UNComtrade_JSON
+25,EUU,IDN,1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",2015,import,2423952228.755,3506513722.0,USD,UNComtrade_JSON
+26,EUU,IDN,1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",2016,import,2153897573.725,3243060668.0,USD,UNComtrade_JSON
+27,EUU,IDN,1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",2017,import,2787313254.276,3726579498.0,USD,UNComtrade_JSON
+28,EUU,IDN,1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",2018,import,2287283705.74,3280778888.0,USD,UNComtrade_JSON
+29,EUU,IDN,1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",2019,import,2038999429.877,3363328416.0,USD,UNComtrade_JSON
+30,EUU,IDN,1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",2020,import,2412591552.794,3381077688.844,USD,UNComtrade_JSON
+31,EUU,IDN,1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",2021,import,2734768191.708,2644630476.86,USD,UNComtrade_JSON
+32,EUU,IDN,1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",2022,import,2411037749.116,1884822707.0,USD,UNComtrade_JSON
+33,EUU,IDN,1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",2023,import,2091697835.488,1897817657.0,USD,UNComtrade_JSON
+34,EUU,IDN,1511,"Palm oil and its fractions; whether or not refined, but not chemically modified",2024,import,1481577303.595,1393475249.0,USD,UNComtrade_JSON
