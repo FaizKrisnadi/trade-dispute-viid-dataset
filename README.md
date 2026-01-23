@@ -1,14 +1,9 @@
 # trade-dispute-viid-dataset
-Replication package and datasets for the VIID conference paper on trade disputes and forum shopping, including raw data, cleaning scripts, and analysis outputs.
+Replication package and datasets for the VIID conference paper on trade disputes and forum shopping. Includes raw and processed data plus analysis outputs. Paper drafts are kept private.
 
-## Structure
-- data/raw: original source data (read-only)
-- data/processed: cleaned datasets used in analysis
-- scripts/cleaning: data cleaning and preprocessing scripts
-- scripts/analysis: analysis and figure/table generation scripts
-- output: generated tables and figures
-- paper: manuscript or slides
+# Structure
+data/raw: original source data (read-only; large raw files may be excluded, see notes inside folder)
+data/processed: cleaned datasets used in analysis
+output: generated tables and figures
 
-## Reproducibility
-1. Run scripts in scripts/cleaning/ to generate processed data
-2. Run scripts in scripts/analysis/ to reproduce tables and figures
+
