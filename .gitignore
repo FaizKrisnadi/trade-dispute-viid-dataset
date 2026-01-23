@@ -209,3 +209,6 @@ __marimo__/
 
 # Large raw file kept locally (not uploaded)
 data/raw/Raw_UNGA Voting & GPR data/2025_7_23_ga_voting.csv
+
+# Work-in-progress paper kept locally
+paper/
